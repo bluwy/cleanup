@@ -1,0 +1,7 @@
+{
+  "name": "lib-a",
+  "private": true,
+  "dependencies": {
+    "is-npm": "^6.0.0"
+  }
+}

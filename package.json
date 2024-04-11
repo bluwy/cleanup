@@ -1,0 +1,15 @@
+{
+	"name": "@bluwy/cleanup",
+	"version": "0.0.1",
+  "type": "module",
+  "author": "Bjorn Lu",
+  "license": "MIT",
+  "bin": "./src/index.js",
+  "files": ["src"],
+	"dependencies": {
+		"eslint": "^9.0.0",
+		"eslint-plugin-depend": "^0.3.0",
+		"typescript-eslint": "^7.6.0",
+		"jsonc-eslint-parser": "^2.4.0"
+	}
+}
